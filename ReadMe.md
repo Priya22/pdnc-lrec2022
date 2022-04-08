@@ -26,7 +26,8 @@ In the `data` folder, for each novel, there are three files:
 
 ## Helper File
 The IPython notebook `load_data.ipynb` shows how to load and read the data files for a novel. 
-
+## Annotation Guidelines
+The full text of the annotation guidelines that were used to annotate this corpus can be viewed at [this link](https://docs.google.com/document/d/1eBsX2rjdLBkmA-kWB_jHCxC1nmbzinH04WUg9PeN_2A/edit?usp=sharing).
 ## Authors
 Please contact the authors of the paper with any queries:
 - [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
