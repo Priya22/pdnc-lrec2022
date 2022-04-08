@@ -1,0 +1,23 @@
+novel,author,folder
+A Room With A View,E. M. Forster,ARoomWithAView
+The Age of Innocence,Edith Wharton,AgeOfInnocence
+Alice's Adventures in Wonderland,Lewis Carroll,AliceInWonderland
+Anne Of Green Gables,Lucy Maud Montgomery,AnneOfGreenGables
+Daisy Miller,Henry James,DaisyMiller
+Emma,Jane Austen,Emma
+A Handful Of Dust,Evelyn Waugh,HandfulOfDust
+Howards End,E. M. Forster,HowardsEnd
+Night And Day,NightAndDay
+Northanger Abbey,Jane Austen,NorthangerAbbey
+Persuasion,Jane Austen,Persuasion
+Pride And Prejudice,Jane Austen,PrideAndPrejudice
+Sense And Sensibility,Jane Austen,SenseAndSensibility
+The Sign of the Four,Sir Arthur Conan Doyle,SignOfFour
+The Awakening,Kate Chopin,TheAwakening
+The Gambler,Fyodor Dostoevsky (Trans. C.J. Hogarth),TheGambler
+The Invisible Man,H. G. Wells,TheInvisibleMan
+The Man Who Was Thursday,G. K. Chesterton,TheManWhoWasThursday
+The Mysterious Affair At Styles,Agatha Christie,TheMysteriousAffairAtStyles
+The Picture Of Dorian Gray,Oscar Wilde,ThePictureOfDorianGray
+The Sport Of The Gods,Paul Laurence Dunbar,TheSportOfTheGods
+The Sun Also Rises,Ernest Hemingway,TheSunAlsoRises
