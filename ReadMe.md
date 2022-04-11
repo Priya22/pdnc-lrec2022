@@ -1,9 +1,9 @@
 # The Project Dialogism Novel Corpus
 
-This repository contains data associated with the LREC 2022 paper [The Project Dialogism Novel Corpus:
+This repository contains data and code associated with the LREC 2022 paper [The Project Dialogism Novel Corpus:
 A Dataset for Quotation Attribution in Literary Texts]().
 
-## Data Description
+## Data and Annotation
 The PDN Corpus contains annotations for speaker, addressees, referring expression, and pronominal mentions for all quotations in 22 novels. The list of novels can be found in the file `ListOfNovels.txt`.
 
 In the `data` folder, for each novel, there are three files:
@@ -24,10 +24,18 @@ In the `data` folder, for each novel, there are three files:
     - name2id: A reverse-mapping of each character alias to the corresponding ID
     - id2parent: The *main* character name associated with each ID
 
-## Helper File
+### Helper File
 The IPython notebook `load_data.ipynb` shows how to load and read the data files for a novel. 
-## Annotation Guidelines
+### Annotation Guidelines
 The full text of the annotation guidelines that were used to annotate this corpus can be viewed at [this link](https://docs.google.com/document/d/1eBsX2rjdLBkmA-kWB_jHCxC1nmbzinH04WUg9PeN_2A/edit?usp=sharing).
+## Code
+The `code` folder contains scripts needed to run the semi-supervised classification approach described in Section 5.1.3 of the paper.
+You can run the classifier for a novel with the following command:
+
+        python semi_sup_clf.py --novel <novel-name> --save_path outputs/
+
+where `<novel-name>` should be substituted with the corresponding folder name in the `data` folder for a novel. 
+
 ## Authors
 Please contact the authors of the paper with any queries:
 - [Krishnapriya Vishnubhotla](https://priya22.github.io/) (University of Toronto)
