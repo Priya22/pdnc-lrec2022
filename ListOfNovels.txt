@@ -7,7 +7,7 @@ Daisy Miller,Henry James,DaisyMiller
 Emma,Jane Austen,Emma
 A Handful Of Dust,Evelyn Waugh,HandfulOfDust
 Howards End,E. M. Forster,HowardsEnd
-Night And Day,NightAndDay
+Night And Day,Virginia Woolf,NightAndDay
 Northanger Abbey,Jane Austen,NorthangerAbbey
 Persuasion,Jane Austen,Persuasion
 Pride And Prejudice,Jane Austen,PrideAndPrejudice
