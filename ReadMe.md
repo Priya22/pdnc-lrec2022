@@ -5,6 +5,16 @@ A Dataset for Quotation Attribution in Literary Texts](https://arxiv.org/abs/220
 
 **Note**: The official repository for the Project Dialogism Novel Corpus has been moved to [here](https://github.com/Priya22/project-dialogism-novel-corpus), and will be updated with new novels as they are annotated.
 
+Please cite the following work if you use the PDNC dataset or the code associated with the paper:
+```
+@article{vishnubhotla2022project,
+  title={The Project Dialogism Novel Corpus: A Dataset for Quotation Attribution in Literary Texts},
+  author={Vishnubhotla, Krishnapriya and Hammond, Adam and Hirst, Graeme},
+  journal={arXiv preprint arXiv:2204.05836},
+  year={2022}
+}
+```
+
 ## Data and Annotation
 The PDN Corpus contains annotations for speaker, addressees, referring expression, and pronominal mentions for all quotations in 22 novels. The list of novels can be found in the file `ListOfNovels.txt`.
 
