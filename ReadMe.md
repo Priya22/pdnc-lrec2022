@@ -3,6 +3,8 @@
 This repository contains data and code associated with the LREC 2022 paper [The Project Dialogism Novel Corpus:
 A Dataset for Quotation Attribution in Literary Texts](https://arxiv.org/abs/2204.05836).
 
+**Note**: The official repository for the Project Dialogism Novel Corpus has been moved to [here](https://github.com/Priya22/project-dialogism-novel-corpus), and will be updated with new novels as they are annotated.
+
 ## Data and Annotation
 The PDN Corpus contains annotations for speaker, addressees, referring expression, and pronominal mentions for all quotations in 22 novels. The list of novels can be found in the file `ListOfNovels.txt`.
 
